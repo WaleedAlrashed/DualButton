@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/BaselHorany/DualButton.svg)](https://jitpack.io/#BaselHorany/DualButton)
 
 # DualButton
-a dual Button with some animations
+A Dual Button with some animations
 
 <p align="center">
   <img src="https://github.com/BaselHorany/DualButton/blob/master/showcase2.gif?raw=true" />
@@ -9,7 +9,7 @@ a dual Button with some animations
 
 
 ## Setup
-1- add jitpack.io repositories to you project `build.gradle`
+1- add jitpack.io repositories to your project `build.gradle`
 ```java 
 allprojects {
 	repositories {
